@@ -12,5 +12,7 @@ cd Create-and-login-in-Discord-and-get-a-token.git/
 python -m venv venv
 source venv/bin/activate - on macOS (venv\Scripts\activate - on Windows)
 pip install -r requirements.txt
+set API_KEY=<YOUR_API_KEY_2CAPTCHA>
+python run main.py
 ```
 
